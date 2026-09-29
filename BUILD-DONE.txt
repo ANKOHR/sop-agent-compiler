@@ -1,0 +1,4 @@
+Pytest test count: 33 passed with `python -m pytest -q`.
+Local build commit hash: b815f74e73932eef503040eba5f8daf84bfda5fb
+
+SOPC is a deterministic Python compiler for SOP documents written in the documented grammar. It produces a versioned typed plan IR, applies named static checks including human approval requirements for consequential actions, generates pytest contract tests, renders a deterministic SVG state graph, and executes verified plans against simulated adapters with permissions, checkpoints, retry backoff, and an ordered audit log. The README and format reference state the natural-language boundary plainly, and synthetic clean, broken, and malformed fixtures are included.
