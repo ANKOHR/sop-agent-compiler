@@ -9,4 +9,7 @@ build/
 sa-prompt.txt
 sa-launch.py
 sa-codex.log
+sa-*.txt
+sa-*.py
+sa-*.log
 *.log
